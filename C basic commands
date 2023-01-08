@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main() {
+  \\This is used to print statements
+  printf("C Basic Intro\n");
+  \\This is to declare variable
+  int a=15; \\This is an integer variable
+  float b=10.5; \\This is an decimal variable
+  char c='M'; \\This is an character variable
+  printf("%d int value",a); \\Like this we can print variables
+  return 0;
+}
